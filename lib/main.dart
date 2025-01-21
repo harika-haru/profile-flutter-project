@@ -59,7 +59,7 @@ class ProfilePage extends StatelessWidget {
             Center(
               child: Container(
                 width: 500,
-                height: 400,
+                height: 350,
                 decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: BorderRadius.circular(5),
