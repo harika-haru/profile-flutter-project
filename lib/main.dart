@@ -59,7 +59,7 @@ class ProfilePage extends StatelessWidget {
             Center(
               child: Container(
                 width: 500,
-                height: 300,
+                height: 400,
                 decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: BorderRadius.circular(5),
@@ -67,7 +67,7 @@ class ProfilePage extends StatelessWidget {
                     BoxShadow(
                       spreadRadius: 2,
                       blurRadius: 2,
-                      offset: const Offset(0, 3),
+                      offset: const Offset(0, 2),
                     ),
                   ],
                 ),
